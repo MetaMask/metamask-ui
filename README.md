@@ -1,0 +1,1 @@
+At present, this repo will be used to create and organize issues pertaining to Metamask UI features. Larger features that involve multiple subtasks will be broken into multiple issues. This repo will hold such issues.
